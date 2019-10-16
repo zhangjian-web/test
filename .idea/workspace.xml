@@ -2,16 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2d711536-4327-48ef-ac63-82dc753c155a" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/../test02/.idea/compiler.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../test02/.idea/encodings.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../test02/.idea/inspectionProfiles/Project_Default.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../test02/.idea/misc.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../test02/.idea/modules.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../test02/.idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../test02/.idea/workspace.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../test02/pom.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../test02/src/main/java/pojo/User.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../test02/test02.iml" />
+      <change beforePath="$PROJECT_DIR$/../test02/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../test02/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/../test02/out/" />
     <ignored path="$PROJECT_DIR$/../test02/target/" />
@@ -348,12 +339,20 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1571229649079</updated>
-      <workItem from="1571229651834" duration="762000" />
+      <workItem from="1571229651834" duration="1114000" />
     </task>
+    <task id="LOCAL-00001" summary="test">
+      <created>1571230482506</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1571230482506</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="762000" />
+    <option name="totallyTimeSpent" value="1114000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1358" y="-8" width="1456" height="876" extended-state="6" />
@@ -392,6 +391,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="test" />
+    <option name="LAST_COMMIT_MESSAGE" value="test" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
